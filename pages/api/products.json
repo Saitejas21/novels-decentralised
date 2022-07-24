@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Ram Scion of Ikshvaku",
+    "price": "0.09",
+    "description": "Scion of Ikshvaku is a one to one replica of the events taking place before the epic tale Ramayana .",
+    "image_url": "https://i.imgur.com/M6J6FKf.jpg",
+    "filename": "Ram.jpg",
+    "hash": "QmQVkGJ4z7yaSQVEX6L5CFJMCKoRsRDcB3goHChAUTzqBT"
+  },
+  {
+    "id": 2,
+    "name": "Sita Warrior of Mithila",
+    "price": "0.05",
+    "image_url": "https://i.imgur.com/WAlNhL3.jpg",
+    "description": "The fifth book of Amish Tripathi, fifth book of Amishverse, and second book of Ram Chandra Series. ",
+    "filename": "front_cover__SWOM-a2416.jpg",
+    "hash": "QmeXqT1QDoRxiUVbHDnDXEDYePbqz1fMChxAcPsa9idQZj"
+  }
+]
